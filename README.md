@@ -44,10 +44,6 @@ Users should be able to:
 I leaned how to make develop responsive site for multiple devices using plain HTML and CSS with SASS. It was definitely tougher but i learnt a lot with this project especially for styling.
 I think i'll use SASS going forward for front-end projects now. it definitely helps to separate sections of the code styling to fix errors fast.
 
-### Useful resources
-
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
 
 ## Author
 
